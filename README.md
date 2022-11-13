@@ -1,12 +1,9 @@
-# Foodpand UI Clone
+# Food E-Commerce
 
+<p>
+  <img src="https://user-images.githubusercontent.com/68896404/201501235-3c0e3609-9c94-4dfe-9ce6-8c2c7fcd8a7a.png" width="230">
+  <img src="https://user-images.githubusercontent.com/68896404/201501237-e78042b0-9f15-46e7-a95e-96718147f4a9.png" width="230">
+  <img src="https://user-images.githubusercontent.com/68896404/201501241-c4a25bb4-b981-4875-aa4c-3208fd39ecb9.png" width="230">
+  <img src="https://user-images.githubusercontent.com/68896404/201501242-34f545fc-1cf9-4a43-b0c4-378fc2815132.png" width="230">
+  </p>
 
-- [Youtube](https://youtu.be/bCS1ddMT_sU)
-- [LinkedIn](https://www.linkedin.com/in/axiftaj/)
-- [Facebook Group](https://www.facebook.com/aaxiftaj)
-
-
-![new](https://user-images.githubusercontent.com/47206155/161398166-7d2af7f3-490f-4f1c-ae9b-be288597f25e.png)
-
-
-![food panda thumnail](https://user-images.githubusercontent.com/47206155/161398035-b2531a0a-1a44-4bc4-b422-041cdd699824.png)
